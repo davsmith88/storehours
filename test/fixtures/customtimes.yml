@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2014-07-18 13:44:56
+  open: 2014-07-18 13:44:56
+  close: 2014-07-18 13:44:56
+  location_id: 
+
+two:
+  date: 2014-07-18 13:44:56
+  open: 2014-07-18 13:44:56
+  close: 2014-07-18 13:44:56
+  location_id: 
