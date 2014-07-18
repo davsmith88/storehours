@@ -1,4 +1,5 @@
 ActiveAdmin.register Customtime do
+  permit_params :date, :open, :close
 
   
   # See permitted parameters documentation:
