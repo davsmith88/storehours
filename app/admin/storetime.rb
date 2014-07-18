@@ -1,4 +1,5 @@
 ActiveAdmin.register Storetime do
+  permit_params :day, :open, :timeopen, :timeclose
 
   
   # See permitted parameters documentation:
